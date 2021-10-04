@@ -1,0 +1,6 @@
+module Pods_turismo_turismoTests {
+  umbrella header "Pods-turismo-turismoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
